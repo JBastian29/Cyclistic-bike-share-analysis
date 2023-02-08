@@ -1,4 +1,5 @@
 # Cyclistic-bike-share-analysis
+Dataset: https://divvy-tripdata.s3.amazonaws.com/index.html from January 2021 to December 2021
 
 I decided to complete the data analysis process using SQL Server to organize and format the data, perform calculations, identify trends and relationships.
 Once the analysis is done, I decided to use Tableau Public to create effective data visualizations and share my findings.
@@ -27,3 +28,6 @@ learning about Cyclistic’s mission and business goals — as well as how you, 
 achieve them.
 * Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.
+
+
+
