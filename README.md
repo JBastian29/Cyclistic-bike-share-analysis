@@ -1,5 +1,6 @@
 # Cyclistic-bike-share-analysis
 Dataset: https://divvy-tripdata.s3.amazonaws.com/index.html from January 2021 to December 2021
+Tableau dashboard: https://public.tableau.com/app/profile/sebastian.julajuj/viz/Cyclistic_analysis_16758238134580/Dashboard1
 
 I decided to complete the data analysis process using SQL Server to organize and format the data, perform calculations, identify trends and relationships.
 Once the analysis is done, I decided to use Tableau Public to create effective data visualizations and share my findings.
