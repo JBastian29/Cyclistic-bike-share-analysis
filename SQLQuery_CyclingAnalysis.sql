@@ -302,3 +302,9 @@ SELECT member_casual, rideable_type, COUNT(rideable_type) as ridable_count
 FROM #temp_year_tripdata
 GROUP BY member_casual, rideable_type
 ORDER BY member_casual, rideable_type
+
+-- Getting the count of rides per week
+SELECT member_casual, day_of_week, COUNT(day_of_week) as rides_per_week
+FROM #temp_year_tripdata
+GROUP BY member_casual, day_of_week
+ORDER BY member_casual, day_of_week
